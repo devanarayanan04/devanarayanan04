@@ -80,9 +80,6 @@ I'm continuously working on personal and academic projects to strengthen my deve
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devanarayanan04&layout=compact&theme=tokyonight" height="160em"/>
 </p>
 
----
-
-
 ## 🎯 Currently
 
 - 📚 Strengthening my software development fundamentals
