@@ -82,13 +82,6 @@ I'm continuously working on personal and academic projects to strengthen my deve
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanarayanan04&hide_border=true" />
-</p>
-
----
 
 ## 🎯 Currently
 
