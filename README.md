@@ -76,8 +76,8 @@ I'm continuously working on personal and academic projects to strengthen my deve
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanarayanan04&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanarayanan04&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=devanarayanan04&show_icons=true&theme=tokyonight&count_private=true" height="160em"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devanarayanan04&layout=compact&theme=tokyonight" height="160em"/>
 </p>
 
 ---
